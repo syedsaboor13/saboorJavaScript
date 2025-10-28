@@ -7,7 +7,7 @@ a specific task.
 you can reuse it anywhere in your code .
 */
 
-// Important poins of functiob
+// Important poins of function
 // 1. declare a function.
 // Call the Function.
 
