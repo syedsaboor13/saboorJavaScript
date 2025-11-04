@@ -1,4 +1,4 @@
-// Slice metho
+// slice method
 /*
 The slice() method is used to copy or extract a portion of an array ( or string )
 without changing the original one.
