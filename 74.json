@@ -1,0 +1,16 @@
+
+
+[
+    {
+        "fname":"Bob",
+        "age"  : 20,
+        "isAlive": true,
+        "isSleeping": null
+    },
+    {
+        "fname":"BOb2",
+        "age"  : 24,
+        "isAlive": false,
+        "isSleeping": "undefined"
+    }
+]
